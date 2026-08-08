@@ -21,7 +21,7 @@ cxx_compiler_version:
 expat:
 - '2'
 gsl:
-- '2.7'
+- '2.8'
 hdf5:
 - '2'
 krb5:
